@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello there, I'm Ariyo!"
+title: "Welcome, I'm Ariyo!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postgraduate student at [the School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels][def].
+I am a postgraduate student at [the School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0).
 
 My research combines large, multilevel data and rigorous causal analysis to reveal how individuals, businesses, and communities respond to climate shocks and natural disasters.
 
