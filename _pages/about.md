@@ -7,9 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student at [the School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0).
+  
+✉️ [a.irhamna@uea.ac.uk](mailto:a.irhamna@uea.ac.uk) | [ariyo.irhamna@indef.or.id](mailto:ariyo.irhamna@indef.or.id)  
 
-My research combines large, multilevel data and rigorous causal analysis to reveal how individuals, businesses, and communities respond to climate shocks and natural disasters.
+---
+
+I am a postgraduate Researcher at the [School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0).
+
+My broader research interests include development economics, environmental economics, and industrial organization. I focus particularly on the impacts of climate variability, foreign investment, and policy enforcement, using both experimental and econometric methods.
+
+I currently lecture on statistics, business, and economics at Paramadina University and serve as a researcher at the Institute for Development of Economics and Finance (INDEF), Indonesia.
+
+
+---
+
+## Work in Progress
+
+- **Decision-Making in Climate Adaptation**: The Causal Effects of Weather Variability on Private Irrigation  
+- **Climate Adaptation and Farm-Household Labour**: A Causal Analysis  
+- **Does Disaster Risk Reduction Save Lives?** A Causal Analysis of Pre-Disaster Programs in Indonesia  
+- **Spatial Effects of Industrialization on Global Value Chains**: Evidence from Europe & Asia Pacific  
+  _with M. Firdaus, B. Arifin, and A. Ratnawati_  
+- **Do FDI Origin and Institutions Matter for GVC?** Dynamic Panel GMM Estimation  
+  _with M. Firdaus, B. Arifin, and A. Ratnawati_  
+- **Is Foreign or Domestic Investment More Influential on Export Structure?** Evidence from Indonesia  
+  _with E. Nurhayati, A. P. Safira, G. I. Wijaya_  
+  [DOI: 10.21203/rs.3.rs-713874/v1](https://doi.org/10.21203/rs.3.rs-713874/v1)
+
+---
+
+Feel free to reach out if you're interested in collaboration or discussion!
 
 A data-driven personal website
 ======
