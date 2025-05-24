@@ -5,8 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
+
 
 Welcome!
 
@@ -16,7 +16,6 @@ My broader research interests include industry, international business, sustaina
 
 I currently lecture on statistics, business, and economics at Paramadina University and serve as a researcher at the Institute for Development of Economics and Finance (INDEF), Indonesia.
 
----
 
 ## Work in Progress
 
