@@ -18,20 +18,20 @@ Education
 
 Current Positions
 ======
-* Lecture on statistics, business, and economics | **University of Paramadina, Jakarta, Indonesia** (2022-now)
-* Research | **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2013-now)
+* Lecture on statistics, business, and economics &#124; **University of Paramadina, Jakarta, Indonesia** (2022-now)
+* Research &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2013-now)
 
 
 Previous Positions
 ======
-* Expert on Macroeconomics to Deputy Minister for Production and Marketing | **Minister of Cooperatives and Small and Medium Enterprise, Jakarta, Indonesia** (2020)
+* Expert on Macroeconomics to Deputy Minister for Production and Marketing &#124; **Minister of Cooperatives and Small and Medium Enterprise, Jakarta, Indonesia** (2020)
    * Provide substantive policy support and promote initiatives for advocacy and policy dialogue;
    * Provide policy advice to the Deputy of Production and Marketing on small-medium enterprise digitalization development programme;
    * Provide high-level knowledge to support SMEs policy with the macroeconomic framework.
    * Contribute to the development and strengthening of the policy study conducted by the department.
-* Investment Analyst | **IIPC (Indonesia Investment Promotion Centre), London, UK** (2018)
+* Investment Analyst &#124; **IIPC (Indonesia Investment Promotion Centre), London, UK** (2018)
    * onducting research to help potential investors (FDI) across Europe to invest in Indonesia.
-* Assistant Researcher | **University of Sebelas Maret, Department of Economics, Surakarta** (2010-2013)
+* Assistant Researcher &#124; **University of Sebelas Maret, Department of Economics, Surakarta** (2010-2013)
    * Supports research projects by conducting literature searches, data management and maintaining files for project Researchers.
  
 
