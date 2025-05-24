@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ariyo Dharma Pahla Irhamna"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ariyo"
 description              : &description "personal description"
 url                      : "https://ariyo-irhamna.github.io"
 baseurl                  : "/ariyoirhamna.github.io"
@@ -23,22 +23,22 @@ repository               : "/ariyoirhamna.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ariyo Irhamna"
+  name             : "Ariyo Dharma Pahla Irhamna"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postgraduate Researcher School of Global Development, University of East Anglia"
+  location         : "Norwich, UK"
+  employer         : "Institute for Development of Economics and Finance (INDEF)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "a.irhamna@uea.ac.uk | ariyo.irhamna@indef.or.id"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=-zgMB-AAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=-zgMB-AAAAAJ&hl=id&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   linkedin         : "https://www.linkedin.com/in/ariyo-irhamna/"
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
