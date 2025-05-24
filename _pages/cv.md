@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Postgraduate Researcher School of Global Development, University of East Anglia, Norwich, UK
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postgraduate Researcher School of Global Development, University of East Anglia, (2023-present)
+* MSc. Development Economics, University of Birmingham, (2016-2017)
+* BSc. in Development Economics, University of Sebelas Maret, (2008-2013)
+
 
 Work experience
 ======
