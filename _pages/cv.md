@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Postgraduate Researcher School of Global Development, University of East Anglia, (2023-present)
@@ -16,10 +18,12 @@ Education
 * BSc. in Development Economics, University of Sebelas Maret, (2008-2013)
 
 
+
 Current Positions
 ======
 * Lecture on statistics, business, and economics &#124; **University of Paramadina, Jakarta, Indonesia** (2022-now)
 * Research &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2013-now)
+
 
 
 Previous Positions
@@ -35,6 +39,7 @@ Previous Positions
    * Supports research projects by conducting literature searches, data management and maintaining files for project Researchers.
  
 
+
 Edited Books
 ======
 * _“Mengelola Ekspektasi Kebijakan”_, November 2015 (Bahasa Indonesia). ISBN: 979-97810-33
@@ -42,6 +47,7 @@ Edited Books
 * _“Tantangan Kabinet Kerja Memenuhi Ekspektasi”_, November 2014 (Bahasa Indonesia). ISBN: 979-97810-27
 * _"Reformasi Ekonomi atau Status Quo?"_, June 2014 (Bahasa Indonesia). ISBN: 979-97810-26
 * _“Ekonomi Lingkungan, Ekonomi Islam, dan Kewirausahaan: Kontribusi Intelektual Muda Kentingan”_, Publisher Kreasi Wacana, Yogyakarta, 2012 (Bahasa Indonesia). ISBN: 978-602-9020-44-1 (http://library.anu.edu.au/record=b3500484)
+
 
 
 Selected Speakers
@@ -52,10 +58,12 @@ Selected Speakers
 * King’s College London Indonesia Society, _Roundtable Discussion: Indonesia Overseas Regional Election on Citizen Rights and How to Form a Good Election_, 11 February 2017, London
 
 
+
 Seminar/Workshop
 ======
 * Environment Camp – LSE, 2025
 * [CSERGE](https://cserge.uea.ac.uk/) Spring Workshop – UEA, 2025
+
 
 
 Publications
@@ -64,6 +72,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
   
 Teaching
 ======
