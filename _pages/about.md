@@ -28,7 +28,6 @@ I currently lecture on statistics, business, and economics at Paramadina Univers
   _with M. Firdaus, B. Arifin, and A. Ratnawati_
 - Does Foreign Direct Investment More Important Than Domestic Direct Investment for Export Structure? Evidence from Indonesia. [DOI: 10.21203/rs.3.rs-713874/v1](https://doi.org/10.21203/rs.3.rs-713874/v1)  
   _with E. Nurhayati, A. P. Safira, G. I. Wijaya_
-![image](https://github.com/user-attachments/assets/ff9368d8-1d82-4032-94de-90f493e6fc77)
 
 
 Feel free to reach out if you're interested in collaboration or discussion!
