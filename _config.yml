@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ariyo Dharma Pahla Irhamna"
+title                    : "Ariyo D. P. Irhamna"
 title_separator          : "-"
 name                     : &name "Ariyo"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "/ariyoirhamna.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ariyo Dharma Pahla Irhamna"
+  name             : "Ariyo D. P. Irhamna"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate Researcher School of Global Development, University of East Anglia"
   location         : "Norwich, UK"
