@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title          : "The driver of global agricultural value chains: Evidence from 6 ASEAN Countries"
+collection     : publications
+category       : manuscripts
+permalink      : /publication/2025-01-01-the-driver-global-agricultural-value-chains
+excerpt        : 'This paper analyzes the drivers of global agricultural value chains across six ASEAN countries.'
+date           : 2025-01-01
+venue          : 'Region : Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif'
+volume         : 20
+pages          : 342
+doi            : 10.20961/region.v20i1.93403
+paperurl       : 'https://jurnal.uns.ac.id/region/article/view/93403'
+citation       : 'Irhamna, A., Firdaus, M., Arifin, B., & Ratnawati, A. (2025). "The driver of global agricultural value chains: Evidence from 6 ASEAN Countries." <i>Region : Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif</i>, 20, 342. https://doi.org/10.20961/region.v20i1.93403'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
