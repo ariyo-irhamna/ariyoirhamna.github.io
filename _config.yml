@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Ariyo"
 description              : &description "personal description"
 url                      : "https://ariyo-irhamna.github.io"
-baseurl                  : "/ariyoirhamna.github.io"
-repository               : "/ariyoirhamna.github.io"
+baseurl                  : ""
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
