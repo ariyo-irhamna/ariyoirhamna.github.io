@@ -24,14 +24,11 @@ I currently lecture on statistics, business, and economics at Paramadina Univers
 - Decision-Making in Climate Adaptation: The Causal Effects of Weather Variability on Private Irrigation
 - The Causal Effects of Climate Adaptation on Farm-Household Labour Adjustment
 - Does Disaster Risk Reduction Save Lives? A Causal Analysis of Pre-Disaster Programs in Indonesia
-- Spatial Effects of Industrialization on the Global Value Chain: Evidence from Europe & Asia Pacific
-
+- Spatial Effects of Industrialization on the Global Value Chain: Evidence from Europe & Asia Pacific  
   _with M. Firdaus, B. Arifin, and A. Ratnawati_
-- Do the Origin of FDI and Institution Matter for GVC? Dynamic Panel GMM Estimation
-
+- Do the Origin of FDI and Institution Matter for GVC? Dynamic Panel GMM Estimation  
   _with M. Firdaus, B. Arifin, and A. Ratnawati_
-- Does Foreign Direct Investment More Important Than Domestic Direct Investment for Export Structure? Evidence from Indonesia. [DOI: 10.21203/rs.3.rs-713874/v1](https://doi.org/10.21203/rs.3.rs-713874/v1)
-
+- Does Foreign Direct Investment More Important Than Domestic Direct Investment for Export Structure? Evidence from Indonesia. [DOI: 10.21203/rs.3.rs-713874/v1](https://doi.org/10.21203/rs.3.rs-713874/v1)  
   _with E. Nurhayati, A. P. Safira, G. I. Wijaya_ 
 
 ---
