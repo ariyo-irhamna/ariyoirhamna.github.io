@@ -26,8 +26,8 @@ redirect_from:
 
 
 
-Previous Positions
-======
+## Previous Positions
+---
 * Expert on Macroeconomics to Deputy Minister for Production and Marketing &#124; **Minister of Cooperatives and Small and Medium Enterprise, Jakarta, Indonesia** (2020)
    * Provide substantive policy support and promote initiatives for advocacy and policy dialogue;
    * Provide policy advice to the Deputy of Production and Marketing on small-medium enterprise digitalization development programme;
@@ -40,8 +40,8 @@ Previous Positions
  
 
 
-Edited Books
-======
+## Edited Books
+---
 * _“Mengelola Ekspektasi Kebijakan”_, November 2015 (Bahasa Indonesia). ISBN: 979-97810-33
 * _“Kredibilitas Kebijakan di Persimpangan”_, June 2015 (Bahasa Indonesia). ISBN: 979-97810-28
 * _“Tantangan Kabinet Kerja Memenuhi Ekspektasi”_, November 2014 (Bahasa Indonesia). ISBN: 979-97810-27
@@ -50,8 +50,8 @@ Edited Books
 
 
 
-Selected Speakers
-======
+## Selected Speakers
+---
 * APEC, The 1st Senior Official Meeting (SOM1), APEC Policy Dialogue _“The Future of Trade and Border Management”_, 6-7 February 2020, Putrajaya
 * APEC, _Trade Facilitation Agreement International Workshop_, 19-20 June 2019, Bali
 * London School of Political Economy Indonesia Society, _Beyond LSE: Careers Night_, 21 November 2018, London
@@ -59,23 +59,23 @@ Selected Speakers
 
 
 
-Seminar/Workshop
-======
+## Seminar/Workshop
+---
 * Environment Camp – LSE, 2025
 * [CSERGE](https://cserge.uea.ac.uk/) Spring Workshop – UEA, 2025
 
 
 
-Publications
-======
+## Publications
+---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
   
-Teaching
-======
+## Teaching
+---
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
