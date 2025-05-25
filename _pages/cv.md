@@ -11,16 +11,16 @@ redirect_from:
 
 
 
-Education
-======
+## Education
+---
 * Postgraduate Researcher School of Global Development, University of East Anglia, (2023-present)
 * MSc. Development Economics, University of Birmingham, (2016-2017)
 * BSc. in Development Economics, University of Sebelas Maret, (2008-2013)
 
 
 
-Current Positions
-======
+## Current Positions
+---
 * Lecture on statistics, business, and economics &#124; **University of Paramadina, Jakarta, Indonesia** (2022-now)
 * Research &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2013-now)
 
