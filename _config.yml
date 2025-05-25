@@ -23,6 +23,7 @@ repository               : "/ariyoirhamna.github.io"
 author:
   # Biographic information
   avatar           : "ariyo.jpeg"
+  avatar_size      : "200px"
   name             : "Ariyo Irhamna"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate Researcher<br>School of Global Development<br>University of East Anglia"
