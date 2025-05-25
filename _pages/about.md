@@ -18,7 +18,7 @@ My secondary research interest explores the global value chain, international ec
 
 I have also been an Associate Fellow of the Higher Education Academy (AFHEA) since 2024.
 
-I currently lecture on statistics, business, and economics at Paramadina University and serve as a researcher at the Institute for Development of Economics and Finance (INDEF), Indonesia.
+I have been a researcher at the Institute for Development of Economics and Finance (INDEF) in Indonesia since 2014.
 
 
 ## Work in Progress
