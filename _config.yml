@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate Researcher<br>School of Global Development<br>University of East Anglia"
   location         : "Norwich, UK"
-  employer         : "<a href='https://indef.or.id/' target='_blank'>INDEF</a>"
+  employer         : "<a href='https://indef.or.id/' target='_blank' style='display:inline'>INDEF</a>"
   uri              : # URL
-  email            : "a.irhamna@uea.ac.uk | ariyo.irhamna@indef.or.id"
+  email            : "a.irhamna@uea.ac.uk, ariyo.irhamna@indef.or.id"
 
   # Academic websites
   academia         : # URL
