@@ -19,13 +19,6 @@ redirect_from:
 
 
 
-## Current Positions
----
-* Lecture on statistics, business, and economics &#124; **University of Paramadina, Jakarta, Indonesia** (2022-now)
-* Research &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2013-now)
-
-
-
 ## Previous Positions
 ---
 * Expert on Macroeconomics to Deputy Minister for Production and Marketing &#124; **Minister of Cooperatives and Small and Medium Enterprise, Jakarta, Indonesia** (2020)
@@ -37,7 +30,8 @@ redirect_from:
    * onducting research to help potential investors (FDI) across Europe to invest in Indonesia.
 * Assistant Researcher &#124; **University of Sebelas Maret, Department of Economics, Surakarta** (2010-2013)
    * Supports research projects by conducting literature searches, data management and maintaining files for project Researchers.
- 
+* Research &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2013-now)
+
 
 
 ## Edited Books
@@ -72,4 +66,10 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+
+
+## Teaching
+---
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
