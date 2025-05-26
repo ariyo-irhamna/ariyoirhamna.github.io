@@ -16,9 +16,9 @@ My main research interests centres on how climate change causally impacts develo
 
 My secondary research interest explores the global value chain, international economics, and spatial economic dynamics.
 
-I have also been an Associate Fellow of the Higher Education Academy (AFHEA) since 2024.
+Since 2014, I have served as a researcher at the Institute for Development of Economics and Finance (INDEF) in Indonesia. 
 
-I have been a researcher at the Institute for Development of Economics and Finance (INDEF) in Indonesia since 2014.
+Additionally, I have held Associate Fellowship status with the Higher Education Academy (AFHEA) since 2024.
 
 
 ## Work in Progress
