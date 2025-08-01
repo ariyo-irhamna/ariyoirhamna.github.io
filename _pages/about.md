@@ -12,7 +12,7 @@ Welcome!
 
 I am a Postgraduate Researcher at the [School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development). My dissertation explores decision-making processes in climate adaptation and disaster risk reduction, under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0).
 
-My research identifies the causal pathways through which climate change shapes development outcomes and influences behaviour and decision-making. My main research interests centre on how climate change causally impacts development outcomes through changing behaviour and decision-making. I employ large-scale, multi-level survey data and weather/climate data combined with advanced causal inference techniques.
+I am an applied microeconomist specialising in climate change, labour markets, and behavioural responses. My main research interests centre on how climate change causally impacts development outcomes through changing behaviour and decision-making. I employ large-scale, multi-level survey data and weather/climate data combined with advanced causal inference techniques.
 
 My secondary research interest explores the global value chain, international economics, and spatial economic dynamics.
 
