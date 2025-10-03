@@ -26,8 +26,8 @@
     <!-- Abstract (excerpt) -->
     {% if post.collection == "publications" and post.excerpt %}
       <details>
-        <summary class="expand-abstract" style="cursor:pointer; color:#2a7ae2">
-          Abstract (click to expand)
+        <summary class="expand-abstract" style="cursor:pointer; color:inherit;">
+          <a style="color:inherit;">Abstract (click to expand)</a>
         </summary>
         <p>{{ post.excerpt }}</p>
       </details>
