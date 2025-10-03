@@ -12,3 +12,11 @@ doi            : 10.20961/region.v20i1.93403
 paperurl       : 'https://jurnal.uns.ac.id/region/article/view/93403'
 citation       : 'Irhamna, A., Firdaus, M., Arifin, B., & Ratnawati, A. (2025). "The driver of global agricultural value chains: Evidence from 6 ASEAN Countries." <i>Region : Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif</i>, 20, 342. https://doi.org/10.20961/region.v20i1.93403'
 ---
+
+<details>
+  <summary style="cursor:pointer; color:blue;">Expand Abstract</summary>
+  <p>
+    This paper analyzes the drivers of global agricultural value chains across six ASEAN countries.
+    The study explores trade flows, competitiveness, and integration into the global market.
+  </p>
+</details>
