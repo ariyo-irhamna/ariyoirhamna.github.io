@@ -23,7 +23,7 @@ Additionally, I have held Associate Fellowship status with the Higher Education 
 
 ## Work in Progress
 
-- Decision-Making in Climate Adaptation: The Causal Effects of Weather Variability on Private Irrigation
+- Behavioral Mechanisms in Climate Adaptation: The Causal Effects of Weather on Private Irrigation Decision-Making
 - The Causal Effects of Climate Adaptation on Farm-Household Labour Adjustment
 - Does Disaster Risk Reduction Save Lives? A Causal Analysis of Pre-Disaster Programs in Indonesia
 - Spatial Effects of Industrialization on the Global Value Chain: Evidence from Europe & Asia Pacific  
