@@ -3,7 +3,7 @@ title: "The impact of trade war on the ASEAN-4 economy"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-09-02-impact-trade-war-asean4
-excerpt: "This paper analyzes the economic consequences of the US–China trade war on ASEAN-4 countries using the GTAP model."
+excerpt: "The paper analyzes the economic consequences of the US–China trade war on economics in ASEAN-4. The analysis uses the Global Trade Analysis Project (GTAP) model. The simulation scenarios depicted short-run potential effects of manufacturing protection with appropriate retaliation response from China. The results showed escalation of trade wars has an impact on various countries, that is on exports, investment and domestic-sector growth. The US and China trade war has resulted in shifts in US imports by country of origin, Indonesia’s GDP and investments have increased, but are still relatively lower compared to other ASEAN-4 countries (Malaysia, Thailand and Vietnam)"
 date: 2022-09-02
 venue: "Macroeconomics and Finance in Emerging Market Economies"
 volume: 15
