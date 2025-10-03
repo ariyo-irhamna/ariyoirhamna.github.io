@@ -1,46 +1,34 @@
 {% include base_path %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
-      {% if include.type == "grid" and teaser %}
-        <div class="archive__item-teaser">
-          <img src=
-            {% if teaser contains "://" %}
-              "{{ teaser }}"
-            {% else %}
-              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}
-            alt="">
-        </div>
+<div class="publication-item">
+  <li>
+    <!-- Judul -->
+    <h3 class="archive__item-title" itemprop="headline">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+      {% elsif post.doi %}
+        <a href="https://doi.org/{{ post.doi }}" target="_blank">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
       {% endif %}
+    </h3>
 
-      <h3 class="archive__item-title" itemprop="headline">
-        {% if post.link %}
-          <a href="{{ post.link }}">{{ title }}</a> 
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-            <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-            <span class="sr-only">Permalink</span>
-          </a>
-        {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-        {% endif %}
-      </h3>
+    <!-- Authors (ambil dari citation) -->
+    {% if post.citation %}
+      <p><em>{{ post.citation | split: '"' | first }}</em></p>
+    {% endif %}
 
-      {% if post.read_time %}
-        <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-      {% endif %}
+    <!-- Journal / Venue -->
+    {% if post.venue %}
+      <p><strong>{{ post.venue }}</strong></p>
+    {% endif %}
 
-      {% if post.venue %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
-      {% endif %}
-
-      {% if post.excerpt %}
-        <details>
-          <summary style="cursor:pointer; color:blue;">Expand Abstract</summary>
-          <p>{{ post.excerpt }}</p>
-        </details>
-      {% endif %}
-    </li>
-  </article>
+    <!-- Abstract (excerpt) -->
+    {% if post.excerpt %}
+      <details>
+        <summary style="cursor:pointer; color:blue;">Abstract (click to expand)</summary>
+        <p>{{ post.excerpt }}</p>
+      </details>
+    {% endif %}
+  </li>
 </div>
