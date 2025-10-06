@@ -24,16 +24,16 @@ Additionally, I have held Associate Fellowship status with the Higher Education 
 ## Work in Progress
 
 - Behavioral Mechanisms in Climate Adaptation: The Causal Effects of Weather on Private Irrigation Decision-Making
-<details>
-  <summary class="expand-abstract">Behavioral Mechanisms in Climate Adaptation: The Causal Effects of Weather on Private Irrigation Decision-Making</summary>
-  <p>
-  <em>Ariyo Irhamna</em><br>
-  <strong>Abstract:</strong><br>
-  The behavioral foundations of adaptation decisions under normal weather variability remain understudied. Most smallholder farmers experience frequent, moderate weather fluctuations in the short term rather than rare extreme events, and these everyday variations shape adaptation choices over time. This is particularly pronounced for private irrigation, where farmers autonomously decide the timing and type of irrigation based on local conditions. Using panel data from 17,443 household-year observations in rural Thailand and Vietnam (2007–2017), we estimate a correlated random effects logit model with an autoregressive distributed lag structure to identify causal effects, addressing unobserved heterogeneity and state dependence. The results are robust across pooled logit, random effects, and fixed effects specifications. We find predominantly reactive adaptation: farmers respond to contemporaneous weather conditions, with prior irrigation experience strongly predicting current adoption, while lagged weather signals have no significant effect. Robustness checks using temperature and precipitation yield inconsistent patterns, but results with a water balance index (SPEI) are strong and consistent, highlighting the importance of integrated climate indicators in analyzing adaptation. These findings provide evidence that adaptation is shaped by immediate conditions and experience, informing policies to support first-time irrigation adoption and to strengthen anticipatory resilience under climate variability.
-  </p>
-  <p><em>Keywords:</em> Climate adaptation, private irrigation adoption, weather variability, panel data, agricultural economics</p>
-  <p><em>JEL Classification:</em> Q12, Q15, Q54, C23, O13</p>
-</details>
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    <em>Ariyo Irhamna</em><br>
+    <strong>Abstract:</strong><br>
+    The behavioral foundations of adaptation decisions under normal weather variability remain understudied. Most smallholder farmers experience frequent, moderate weather fluctuations in the short term rather than rare extreme events, and these everyday variations shape adaptation choices over time. This is particularly pronounced for private irrigation, where farmers autonomously decide the timing and type of irrigation based on local conditions. Using panel data from 17,443 household-year observations in rural Thailand and Vietnam (2007–2017), we estimate a correlated random effects logit model with an autoregressive distributed lag structure to identify causal effects, addressing unobserved heterogeneity and state dependence. The results are robust across pooled logit, random effects, and fixed effects specifications. We find predominantly reactive adaptation: farmers respond to contemporaneous weather conditions, with prior irrigation experience strongly predicting current adoption, while lagged weather signals have no significant effect. Robustness checks using temperature and precipitation yield inconsistent patterns, but results with a water balance index (SPEI) are strong and consistent, highlighting the importance of integrated climate indicators in analyzing adaptation. These findings provide evidence that adaptation is shaped by immediate conditions and experience, informing policies to support first-time irrigation adoption and to strengthen anticipatory resilience under climate variability.
+    </p>
+    <p><em>Keywords:</em> Climate adaptation, private irrigation adoption, weather variability, panel data, agricultural economics</p>
+    <p><em>JEL Classification:</em> Q12, Q15, Q54, C23, O13</p>
+  </details>
   
 - The Causal Effects of Climate Adaptation on Farm-Household Labour Adjustment
 - Does Disaster Risk Reduction Save Lives? A Causal Analysis of Pre-Disaster Programs in Indonesia
