@@ -1,7 +1,10 @@
 {% include base_path %}
 
+<!-- ganti jika behavior selesai -->
+{% unless post.hide_from_cv %}
 <div class="publication-item">
   <li>
+
     <!-- Judul -->
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
@@ -33,4 +36,10 @@
       </details>
     {% endif %}
   </li>
+
+<!-- hapus jika behavior selesai -->
+    </li>
+</div>
+{% endunless %}
+
 </div>
