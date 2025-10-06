@@ -1,5 +1,5 @@
 ---
-hidden         : true
+hide_from_cv   : true
 title          : "Behavioral Mechanisms in Climate Adaptation: The Causal Effects of Weather on Private Irrigation Decision-Making"
 author         : "Ariyo Irhamna"
 collection     : publications
