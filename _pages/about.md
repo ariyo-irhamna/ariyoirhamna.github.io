@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a Postgraduate Researcher at the [School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development), working under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0).
 
-I am an applied microeconomist. My research examines how climate change causally impacts development outcomes through changing behaviour and decision-making. I combine large-scale household panel data with weather and climate data, using causal inference methods to study agricultural productivity, farmer adaptation, and disaster risk reduction in Southeast Asia.
+I am an applied microeconomist. My research examines how climate change causally impacts development outcomes through changing behaviour and decision-making. I combine household panel surveys, administrative records, and climate data with causal inference methods to study agricultural productivity, farmer adaptation, and health impacts of climate change in Southeast Asia and Indonesia.
 
 Since 2014, I have served as a researcher at the [Institute for Development of Economics and Finance (INDEF)](https://indef.or.id/) in Indonesia. I hold Associate Fellowship with the Higher Education Academy (AFHEA) since 2024.
 
