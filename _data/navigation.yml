@@ -1,8 +1,11 @@
 # Navigation links in the header
 
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Research"
     url: /research/
 
-  - title: "CV"
-    url: /cv/
+  - title: "In the Media"
+    url: /media/
