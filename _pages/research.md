@@ -1,25 +1,11 @@
 ---
-permalink: /
-title: "Ariyo Dharma Pahla Irhamna"
+layout: single
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-Welcome! I am a Postgraduate Researcher at the [School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development), working under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0).
-
-I am an applied microeconomist. My research examines how climate change causally impacts development outcomes through changing behaviour and decision-making. I combine large-scale household panel data with weather and climate data, using causal inference methods to study agricultural productivity, farmer adaptation, and disaster risk reduction in Southeast Asia.
-
-Since 2014, I have served as a researcher at the [Institute for Development of Economics and Finance (INDEF)](https://indef.or.id/) in Indonesia. I hold Associate Fellowship with the Higher Education Academy (AFHEA) since 2024.
-
-**Fields:** Applied Microeconomics, Climate Economics, Development Economics, Agricultural Economics
-
----
-
-## Research
-
-### Work in Progress
+## Work in Progress
 
 - The Causal Effect of Temperature on Rice Productivity: Evidence from Tropical Southeast Asia
   <details style="margin-left: 1.5em;">
@@ -49,7 +35,9 @@ Since 2014, I have served as a researcher at the [Institute for Development of E
 - Flooding and Health: Causal Evidence from Indonesia's National Health Insurance
 - Does Disaster Risk Reduction Save Lives? A Causal Analysis of Pre-Disaster Programmes in Indonesia
 
-### Other Publications
+---
+
+## Other Publications
 
 - Spatial Effects of Industrialisation on the Global Value Chain: Evidence from Europe & Asia Pacific
   *(with M. Firdaus, B. Arifin, and A. Ratnawati)*
@@ -57,9 +45,3 @@ Since 2014, I have served as a researcher at the [Institute for Development of E
   *(with M. Firdaus, B. Arifin, and A. Ratnawati)*
 - Does Foreign Direct Investment More Important Than Domestic Direct Investment for Export Structure? Evidence from Indonesia. [DOI](https://doi.org/10.21203/rs.3.rs-713874/v1)
   *(with E. Nurhayati, A. P. Safira, G. I. Wijaya)*
-
----
-
-## Contact
-
-I welcome opportunities for collaboration and discussion. Please reach out at [a.irhamna@uea.ac.uk](mailto:a.irhamna@uea.ac.uk).
