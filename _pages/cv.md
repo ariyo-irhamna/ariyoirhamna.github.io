@@ -23,7 +23,7 @@ redirect_from:
 ---
 * Economics Researcher &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2014-2023)
    * Led end-to-end policy research projects on a wide variety of economics policy topics, including development, poverty, industry, investment, trade, and fiscal policy, from proposal development and data analysis to delivering actionable recommendations to senior government officials and industry leaders.
-   * Initiated and coordinated the establishment of ISPE (INDEF School of Political Economy), a flagship 2-3 day executive workshop bridging academic research and policy practice, with more than 1,000 alumni across central and regional government, business, and NGOs throughout Indonesia.
+   * Initiated and coordinated the establishment of ISPE (INDEF School of Political Economy) in 2016, a flagship 2-3 day workshop bridging academic research and policy practice, with more than 1,000 alumni across central and regional government, business, and NGOs throughout Indonesia.
 * Investment Analyst &#124; **IIPC (Indonesia Investment Promotion Centre), London, UK** (2018)
    * Conducting research to help potential investors (FDI) across Europe to invest in Indonesia.
 * Assistant Researcher &#124; **University of Sebelas Maret, Department of Economics, Surakarta** (2010-2013)
