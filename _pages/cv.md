@@ -22,13 +22,8 @@ redirect_from:
 ## Previous Positions
 ---
 * Research &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2014-2023)
-* Expert on Macroeconomics to Deputy Minister for Production and Marketing &#124; **Minister of Cooperatives and Small and Medium Enterprise, Jakarta, Indonesia** (2020)
-   * Provide substantive policy support and promote initiatives for advocacy and policy dialogue;
-   * Provide policy advice to the Deputy of Production and Marketing on small-medium enterprise digitalization development programme;
-   * Provide high-level knowledge to support SMEs policy with the macroeconomic framework.
-   * Contribute to the development and strengthening of the policy study conducted by the department.
 * Investment Analyst &#124; **IIPC (Indonesia Investment Promotion Centre), London, UK** (2018)
-   * onducting research to help potential investors (FDI) across Europe to invest in Indonesia.
+   * Conducting research to help potential investors (FDI) across Europe to invest in Indonesia.
 * Assistant Researcher &#124; **University of Sebelas Maret, Department of Economics, Surakarta** (2010-2013)
    * Supports research projects by conducting literature searches, data management and maintaining files for project Researchers.
 
