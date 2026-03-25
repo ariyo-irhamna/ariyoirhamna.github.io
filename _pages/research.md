@@ -16,6 +16,24 @@ author_profile: true
     </p>
   </details>
 
+- The Impact of Trade War on the ASEAN-4 Economy. [DOI](https://doi.org/10.1080/17520843.2021.1911463)
+  *(with A. H. Firdaus and E. Nurhayati)* — *Macroeconomics and Finance in Emerging Market Economies*, 15(3), 231–245, 2022.
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    The paper analyses the economic consequences of the US–China trade war on ASEAN-4 economies using the Global Trade Analysis Project (GTAP) model. The simulation scenarios depict short-run potential effects of manufacturing protection with appropriate retaliation response from China. The results show that escalation of trade wars has an impact on exports, investment, and domestic-sector growth across various countries. The US and China trade war has resulted in shifts in US imports by country of origin. Indonesia's GDP and investments have increased, but are still relatively lower compared to other ASEAN-4 countries (Malaysia, Thailand, and Vietnam).
+    </p>
+  </details>
+
+- The Political Economy of Sustainable Development in Indonesia. [DOI](https://doi.org/10.55168/ssr2809-6029.2021-1003)
+  *(with D. Wibowo and A. Rakatama)* — *Sustainability Science and Resources*, 1, 2021.
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    Political economy concerns how actual policies deviate from economic optimality. This study evaluates Indonesia's progress toward sustainable development goals (SDGs) from the political economy viewpoint. The authors discuss Indonesia's Voluntary National Reviews (VNRs) and critically analyse its COVID-19 pandemic control policy given the policy's importance to SDG 3 (good health and well-being) and SDG 8 (decent work and economic growth). Indonesia chooses to opt out of strict public health restrictions because of the government's preoccupation with economic growth, the large number of workers relying on daily income, and its state of democratic consolidation. This study shows how indispensable partnerships (SDG 17) are for achieving SDGs, presenting the case of the Indonesian Forestry Certification Cooperation's work in forest certification and sustainable forest management.
+    </p>
+  </details>
+
 ---
 
 ## Work in Progress
