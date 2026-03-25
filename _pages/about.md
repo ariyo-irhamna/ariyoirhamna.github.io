@@ -49,6 +49,17 @@ Prior to my PhD, I spent more than a decade conducting policy research and advoc
 - Flooding and Health: Causal Evidence from Indonesia's National Health Insurance
 - Does Disaster Risk Reduction Save Lives? A Causal Analysis of Pre-Disaster Programmes in Indonesia
 
+### Journal Articles
+
+- The Driver of Global Agricultural Value Chains: Evidence from 6 ASEAN Countries. [DOI](https://doi.org/10.20961/region.v20i1.93403)
+  *(with M. Firdaus, B. Arifin, and A. Ratnawati)* — *Region: Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif*, 20(1), 2025.
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    This research examines the drivers of global agricultural value chain (GAVC) participation in six ASEAN countries: Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam. Using panel geographically weighted regression methodology, we assess spatial variations in how tariffs, foreign direct investment, agricultural land, water resources, and trade balance influence GAVC participation. Key findings indicate tariffs strengthen competitiveness in Indonesia, Singapore, and Thailand, while FDI boosts Malaysia's involvement. Agricultural land proves vital for Indonesia and Thailand, inland waters matter significantly for the Philippines, and food trade balance positively affects Thailand and Vietnam's participation levels.
+    </p>
+  </details>
+
 ### Other Publications
 
 - Spatial Effects of Industrialisation on the Global Value Chain: Evidence from Europe & Asia Pacific
