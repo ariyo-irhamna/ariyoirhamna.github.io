@@ -1,34 +1,42 @@
 ---
-permalink: /
-title: "Ariyo Dharma Pahla Irhamna"
+layout: single
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-Welcome! I am a Postgraduate Researcher at the [School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development), working under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0). I hold Associate Fellowship with the Higher Education Academy (AFHEA) since 2024.
-
-I am a development economist studying how climate shocks affect agricultural livelihoods and health in Southeast Asia and Indonesia. My research integrates high-resolution weather and climate data with household panel surveys, administrative health records, and plant-level industrial data to estimate causal effects using within-household variation in temperature exposure.
-
-Prior to my PhD, I spent more than a decade conducting policy research and advocacy across a wide range of economics topics with senior government officials in Indonesia, based at the [Institute for Development of Economics and Finance (INDEF)](https://indef.or.id/). I regularly provide economic commentary to Indonesian media on current policy issues such as poverty, trade, fiscal policy, and industrial policy.
-
-**Fields:** Development Economics, Environmental and Climate Economics, Agricultural Economics
-
----
-
-## Research
-
-### Journal Articles
+## Journal Articles
 
 - The Driver of Global Agricultural Value Chains: Evidence from 6 ASEAN Countries. [DOI](https://doi.org/10.20961/region.v20i1.93403)
-  *(with M. Firdaus, B. Arifin, and A. Ratnawati)* — *Region*, 20(1), 2025.
+  *(with M. Firdaus, B. Arifin, and A. Ratnawati)* — *Region: Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif*, 20(1), 2025.
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    This research examines the drivers of global agricultural value chain (GAVC) participation in six ASEAN countries: Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam. Using panel geographically weighted regression methodology, we assess spatial variations in how tariffs, foreign direct investment, agricultural land, water resources, and trade balance influence GAVC participation. Key findings indicate tariffs strengthen competitiveness in Indonesia, Singapore, and Thailand, while FDI boosts Malaysia's involvement. Agricultural land proves vital for Indonesia and Thailand, inland waters matter significantly for the Philippines, and food trade balance positively affects Thailand and Vietnam's participation levels.
+    </p>
+  </details>
+
 - The Impact of Trade War on the ASEAN-4 Economy. [DOI](https://doi.org/10.1080/17520843.2021.1911463)
-  *(with A. H. Firdaus and E. Nurhayati)* — *Macroeconomics and Finance in Emerging Market Economies*, 15(3), 2022.
+  *(with A. H. Firdaus and E. Nurhayati)* — *Macroeconomics and Finance in Emerging Market Economies*, 15(3), 231–245, 2022.
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    The paper analyses the economic consequences of the US–China trade war on ASEAN-4 economies using the Global Trade Analysis Project (GTAP) model. The simulation scenarios depict short-run potential effects of manufacturing protection with appropriate retaliation response from China. The results show that escalation of trade wars has an impact on exports, investment, and domestic-sector growth across various countries. The US and China trade war has resulted in shifts in US imports by country of origin. Indonesia's GDP and investments have increased, but are still relatively lower compared to other ASEAN-4 countries (Malaysia, Thailand, and Vietnam).
+    </p>
+  </details>
+
 - The Political Economy of Sustainable Development in Indonesia. [DOI](https://doi.org/10.55168/ssr2809-6029.2021-1003)
   *(with D. Wibowo and A. Rakatama)* — *Sustainability Science and Resources*, 1, 2021.
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    Political economy concerns how actual policies deviate from economic optimality. This study evaluates Indonesia's progress toward sustainable development goals (SDGs) from the political economy viewpoint. The authors discuss Indonesia's Voluntary National Reviews (VNRs) and critically analyse its COVID-19 pandemic control policy given the policy's importance to SDG 3 (good health and well-being) and SDG 8 (decent work and economic growth). Indonesia chooses to opt out of strict public health restrictions because of the government's preoccupation with economic growth, the large number of workers relying on daily income, and its state of democratic consolidation. This study shows how indispensable partnerships (SDG 17) are for achieving SDGs, presenting the case of the Indonesian Forestry Certification Cooperation's work in forest certification and sustainable forest management.
+    </p>
+  </details>
 
-### Work in Progress
+---
+
+## Work in Progress
 
 - The Causal Effect of Temperature on Rice Productivity: Evidence from Tropical Southeast Asia
   <details style="margin-left: 1.5em;">
@@ -57,9 +65,3 @@ Prior to my PhD, I spent more than a decade conducting policy research and advoc
 - Flooding and Health: Causal Evidence from Indonesia's National Health Insurance
 - Does Foreign Direct Investment More Important Than Domestic Direct Investment for Export Structure? Evidence from Indonesia. [DOI](https://doi.org/10.21203/rs.3.rs-713874/v1)
   *(with E. Nurhayati, A. P. Safira, G. I. Wijaya)*
-
----
-
-## Contact
-
-I welcome opportunities for collaboration and discussion. Please reach out at [a.irhamna@uea.ac.uk](mailto:a.irhamna@uea.ac.uk) or [ariyo.irhamna@indef.or.id](mailto:ariyo.irhamna@indef.or.id).

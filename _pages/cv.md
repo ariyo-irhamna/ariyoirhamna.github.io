@@ -9,56 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
+---
+* Postgraduate Researcher School of Global Development, University of East Anglia, (2023-present)
+* MSc. Development Economics, University of Birmingham, (2016-2017)
+* BSc. in Development Economics, University of Sebelas Maret, (2008-2013)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
+
+## Previous Positions
+---
+* Economics Researcher &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2014-2023)
+   * Led end-to-end policy research projects on a wide variety of economics policy topics, including development, poverty, industry, investment, trade, and fiscal policy, from proposal development and data analysis to delivering actionable recommendations to senior government officials and industry leaders.
+   * Initiated and coordinated the establishment of ISPE (INDEF School of Political Economy) in 2016, a flagship 2-3 day workshop bridging academic research and policy practice, with more than 1,000 alumni across central and regional government, business, and NGOs throughout Indonesia.
+* Investment Analyst &#124; **IIPC (Indonesia Investment Promotion Centre), London, UK** (2018)
+   * Conducting research to help potential investors (FDI) across Europe to invest in Indonesia.
+* Assistant Researcher &#124; **University of Sebelas Maret, Department of Economics, Surakarta** (2010-2013)
+   * Supports research projects by conducting literature searches, data management and maintaining files for project Researchers.
+
+
+
+## Edited Books
+---
+* _“Mengelola Ekspektasi Kebijakan”_, November 2015 (Bahasa Indonesia). ISBN: 979-97810-33
+* _“Kredibilitas Kebijakan di Persimpangan”_, June 2015 (Bahasa Indonesia). ISBN: 979-97810-28
+* _“Tantangan Kabinet Kerja Memenuhi Ekspektasi”_, November 2014 (Bahasa Indonesia). ISBN: 979-97810-27
+* _"Reformasi Ekonomi atau Status Quo?"_, June 2014 (Bahasa Indonesia). ISBN: 979-97810-26
+* _“Ekonomi Lingkungan, Ekonomi Islam, dan Kewirausahaan: Kontribusi Intelektual Muda Kentingan”_, Publisher Kreasi Wacana, Yogyakarta, 2012 (Bahasa Indonesia). ISBN: 978-602-9020-44-1 (http://library.anu.edu.au/record=b3500484)
+
+
+
+## Selected Speakers
+---
+* APEC, The 1st Senior Official Meeting (SOM1), APEC Policy Dialogue _“The Future of Trade and Border Management”_, 6-7 February 2020, Putrajaya
+* APEC, _Trade Facilitation Agreement International Workshop_, 19-20 June 2019, Bali
+* London School of Political Economy Indonesia Society, _Beyond LSE: Careers Night_, 21 November 2018, London
+* King’s College London Indonesia Society, _Roundtable Discussion: Indonesia Overseas Regional Election on Citizen Rights and How to Form a Good Election_, 11 February 2017, London
+
+
+
+## Seminar/Workshop
+---
+* Environment Camp – LSE, 2025
+* [CSERGE](https://cserge.uea.ac.uk/) Spring Workshop – UEA, 2025
+
+
+
+## Publications
+---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+
+
+## Teaching
+---
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
