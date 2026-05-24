@@ -30,3 +30,30 @@
 **Status:**
 - Done: All website updates complete and verified live.
 - Pending: None for website. Paper 3 plan session pending separately.
+
+## 2026-05-24 16:00 — Beamer Presentation Updates (All 3 Papers)
+
+**Operations:**
+- Modified all 3 Beamer presentations (Papers 1, 2, 3):
+  - Added navigation header bar with clickable section names (`\insertsectionnavigationhorizontal`).
+  - Added `\section{}` commands: Motivation, Literature, Data, Strategy, Results, Robustness, Conclusion.
+  - Reduced frametitle font to `\fontsize{8pt}{10pt}` to accommodate header.
+  - Footer: replaced short title in centre with website URL (`https://ariyo-irhamna.github.io/ariyoirhamna.github.io/`).
+  - Footer: split right section into 2 boxes — email (centred, 25%) + page number (right-aligned, 10%).
+- Paper 1: renamed slide title "Temperature:" → "Summary Statistics:" on slide 5.
+- Updated `feedback_beamer_style.md` with navigation header and 4-box footer specs.
+- Updated `user_ariyo.md` with broadened research scope and self-positioning preference.
+
+**Decisions:**
+- Navigation header uses standard economics sections — matches slide title section labels.
+- Footer 4-box split: author (left 25%) | website (centre 40%) | email (centre 25%) | page (right 10%) — email centred, page number right-aligned per user preference.
+- Website URL in footer centre replaces short paper title — more useful for audience to find the presenter.
+
+**Results:**
+- All 3 presentations compile cleanly: 0 errors, 0 overfull boxes.
+- Paper 1: 23 pages. Paper 2: 23 pages. Paper 3: 17 pages.
+- Navigation header confirmed working in all 3 PDFs.
+
+**Status:**
+- Done: All Beamer updates applied and compiled.
+- Pending: None.

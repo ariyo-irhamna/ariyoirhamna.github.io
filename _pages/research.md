@@ -54,11 +54,11 @@ author_profile: true
     </p>
   </details>
 
-- Land Allocation as Climate Adaptation: Evidence from Rice Farmers in Thailand and Vietnam
+- Land as Climate Adaptation: Evidence from Rice Farmers in Thailand and Vietnam
   <details style="margin-left: 1.5em;">
     <summary class="expand-abstract">Abstract (click to expand)</summary>
     <p>
-    The companion paper (Paper 2) documents that rice farmers expand rice area in response to pre-planting heat. This paper investigates the extensive margin: how do households acquire the additional land? Using the same TVSEP panel, I decompose total land holdings into acquisition channels (inherited, purchased, government-allocated, and other) and estimate how pre-planting harmful heat affects each channel. One additional harmful degree day increases total landholding by 0.60 hectares in the pooled sample. The dominant channel is inherited land (+0.27 ha), followed by purchased land (+0.06 ha). Thailand drives the pooled result, with inherited (+0.41 ha) and purchased (+0.09 ha) land both significant. In Vietnam, government-allocated land is the only significant channel (+0.29 ha). These findings reveal that the rice area expansion documented in Paper 2 operates through genuine land acquisition, not reallocation of existing holdings, and that the institutional channel differs across countries.
+    How do farming households acquire additional land in response to extreme heat? Using a panel of 3,228 rice-farming households in Thailand and Vietnam (2007–2017), I exploit within-household variation in pre-planting harmful heat to estimate the effect of temperature on land acquisition across four channels: inherited, purchased, government-allocated, and other. Household, village, and agroecological zone fixed effects and province-specific linear year trends isolate the identifying variation to within-household temperature shocks. One additional harmful degree day before planting increases total landholding by 0.60 hectares in the pooled sample (p < 0.01). The dominant channel is inherited land (+0.27 ha), followed by purchased land (+0.06 ha). Country-specific results reveal distinct institutional pathways: Thailand drives the pooled result through inherited (+0.41 ha) and purchased (+0.09 ha) land, whereas in Vietnam, government-allocated land is the only significant channel (+0.29 ha). Heat increases total area but not the number of plots, indicating expansion through enlargement of existing holdings rather than new parcels. Results hold under inverse hyperbolic sine transformation, calendar-fixed weather windows, and district-specific time trends.
     </p>
   </details>
 
