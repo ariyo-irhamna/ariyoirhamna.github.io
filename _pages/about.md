@@ -11,7 +11,7 @@ Welcome! I am a Postgraduate Researcher at the [School of Global Development, Un
 
 I am a development economist specialising in environmental and climate economics. My research examines how climate shocks affect economic outcomes across developing countries, with a focus on Southeast Asia and Indonesia. I integrate high-resolution weather and climate data with household panel surveys, administrative health records, and plant-level industrial data to estimate causal effects of temperature and extreme weather on agriculture, health, and welfare.
 
-Prior to my PhD, I spent more than a decade conducting policy research and advocacy across a wide range of economics topics with senior government officials in Indonesia, based at the [Institute for Development of Economics and Finance (INDEF)](https://indef.or.id/). I regularly provide economic commentary to Indonesian media on current policy issues such as poverty, trade, fiscal policy, and industrial policy.
+Prior to my PhD, I spent more than a decade conducting policy research and advocacy across a wide range of economics topics with senior government officials in Indonesia, based at the [Institute for Development of Economics and Finance (INDEF)](https://indef.or.id/). I regularly provide economic commentary to Indonesian media on current policy issues such as poverty, trade, fiscal policy, and industrial policy. For recent commentary, please visit [In the Media](/media/).
 
 **Fields:** Development Economics, Environmental and Climate Economics, Agricultural Economics
 
