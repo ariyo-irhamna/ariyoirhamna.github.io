@@ -9,6 +9,8 @@ Selected media appearances and economic commentary. This page features recent hi
 
 ## 2026
 
+- [Indonesia Could Forfeit Rp 67 T a Year Without Windfall Profit Tax, INDEF Warns](https://jakartaglobe.id/business/indonesia-could-forfeit-rp-67-t-a-year-without-windfall-profit-tax-indef-warns) — *Jakarta Globe*, May 2026
+- [INDEF: Windfall Tax as Commodity Prices Surge Again](https://observerid.com/indef-windfall-tax-as-commodity-prices-surge-again/) — *Observer ID*, May 2026
 - [WFH Bisa Hemat Anggaran, tapi Picu Efek Domino ke Konsumsi dan UMKM](https://mediaindonesia.com/ekonomi/873030/wfh-bisa-hemat-anggaran-tapi-picu-efek-domino-ke-konsumsi-dan-umkm) — *Media Indonesia*, March 2026
 - [Ketidakpastian Tarif AS: Apakah Perjanjian Resiprokal Masih Menguntungkan bagi Indonesia?](https://www.kompas.id/artikel/ketidakpastian-tarif-as-apakah-art-masih-menguntungkan-bagi-indonesia) — *Kompas*, February 2026
 - [Value-Added Challenges Behind Manufacturing Growth](https://www.kompas.id/artikel/en-tantangan-nilai-tambah-di-balik-pertumbuhan-manufaktur) — *Kompas*, February 2026
