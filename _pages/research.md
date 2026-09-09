@@ -38,11 +38,27 @@ author_profile: true
 
 ## Work in Progress
 
-- The Causal Effect of Temperature on Rice Productivity: Evidence from Tropical Southeast Asia
+- Testing Growing-Window Exogeneity in Weather-Shock Designs: Heat, Rice Yields and Crop Income in Thailand and Vietnam
   <details style="margin-left: 1.5em;">
     <summary class="expand-abstract">Abstract (click to expand)</summary>
     <p>
-    This paper estimates the causal effect of temperature on rice yields using a panel of 3,228 rice farmers in Thailand and Vietnam (2007–2017), matching ERA5 daily temperatures to each household's reported growing season. A two-component degree day model with country-specific thresholds (24°C for Thailand, 31°C for Vietnam) separates beneficial from harmful heat. Household, village, and agroecological zone fixed effects and province-specific linear year trends isolate the identifying variation to within-household temperature shocks. One additional harmful degree day reduces log yield by 0.199 in the pooled sample (p < 0.01). Both countries exhibit statistically significant yield losses: −0.103 per harmful degree day in Thailand and −1.795 in Vietnam. Lowland farms bear the brunt of heat damage, while the highland differential is insignificant. Results hold under calendar-fixed weather windows, Conley spatial standard errors, progressive time trend specifications, alternative functional forms, and winsorisation.
+    Farmers choose when their growing season begins, so heat measured over the season a household reports is partly chosen. Existing work either imposes a common calendar window or controls for planting date within the reported one. Neither tests the reported window itself. This paper splits that heat into the part a calendar-fixed window would deliver and the part the household's timing adds. Exogeneity implies equal coefficients, a Durbin–Wu–Hausman test with the calendar-fixed window as instrument. On eight waves of Thai and Vietnamese rice households (2007–2024), at an agronomic 33°C threshold, the outcomes differ. Thailand fails, so these data cannot say whether heat damages rice there. Vietnam passes. Both yield estimates are imprecise, and the Vietnamese confidence interval ends at zero, so neither is reported as a headline result. The contribution is the test. It costs one auxiliary regression and needs only a panel recording planting and harvest months.
+    </p>
+  </details>
+
+- Floods, Rainfall and Health in Indonesia: Causal Evidence from National Health Insurance Claims
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    Flood illness in Indonesia has been measured only from self-reports. This paper estimates the causal effect of flooding on diagnosed illness using the claims panel of BPJS Kesehatan, the administrator of Indonesia's national health insurance scheme (JKN): 2.09 million members and 111.5 million person-months across 515 regencies in 2015–2019, linked to BNPB flood records and CHIRPS and ERA5 rainfall. A flood-shock event study with individual, month-by-year, regency-by-year and regency-by-calendar-month fixed effects finds that respiratory diagnoses rise by 2 to 3.5 per cent of the mean for three months after a flood, with no detectable pre-trend. Rainfall in the upstream river basin, with local rainfall held fixed, reproduces the effect, so the mechanism is floodwater rather than the regency's own weather. Health-care use rises 0.6 per cent and claims cost 1.5 per cent in the month after a flood, and a cancer placebo shows no detectable effect. The rise concentrates among children aged 5 to 17 and formal-sector members, while under-fives and the over-60s record fewer visits in the flood month: illness is counted only where people can still reach care.
+    </p>
+  </details>
+
+- Does Rain Cause Environmental Crime? Causal Evidence from Indonesia
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    Does rainfall cause environmental crime? This paper provides offence-level causal evidence from Indonesia. I assemble 6,923 prosecuted environmental offences with an incident date and location from Indonesian court records (2013–2025) and match each to CHIRPS daily rainfall at the incident location. A time-stratified case-crossover design compares each offence with the same place and calendar date in adjacent years, so the offence fixed effect removes everything that does not vary with the weather. Rain moves environmental crime in both directions. Light and moderate rain suppresses destructive offences such as burning at every horizon: the log-odds of a destructive offence fall by 0.165 per 10 mm of light rain in the preceding three days. Heavy rain stimulates illegal extraction, led by mining, over the following month: the log-odds rise by 0.024 per 10 mm of heavy rain over four weeks. Each group is unresponsive to the other's rain band, logging and fishing show no response, and nine stability and falsification tests pass. To my knowledge these are the first offence-level causal estimates of weather effects on environmental crime.
     </p>
   </details>
 
@@ -62,6 +78,5 @@ author_profile: true
     </p>
   </details>
 
-- Flooding and Health: Causal Evidence from Indonesia's National Health Insurance
 - Does Foreign Direct Investment More Important Than Domestic Direct Investment for Export Structure? Evidence from Indonesia. [DOI](https://doi.org/10.21203/rs.3.rs-713874/v1)
   *(with E. Nurhayati, A. P. Safira, G. I. Wijaya)*
