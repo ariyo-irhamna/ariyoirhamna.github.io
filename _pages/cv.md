@@ -67,6 +67,6 @@ redirect_from:
 
 ## Teaching
 ---
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Seminar Tutor (Associate Tutor) &#124; **DEV-4003A Big Questions for People and Planet, School of Global Development, University of East Anglia** (2026-2027)
+* Associate Tutor, computer workshops &#124; **DEV-7106A Quantitative Methods and Analysis for Global Development, School of Global Development, University of East Anglia** (2026-2027)
+* Lecture on Statistics, Business, and Economics &#124; **University of Paramadina, Faculty of Economics and Business, Jakarta** (2022)
