@@ -7,5 +7,8 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "In the Media"
     url: /media/
