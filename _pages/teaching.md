@@ -9,7 +9,7 @@ author_profile: true
 
 **DEV-4003A Big Questions for People and Planet** (undergraduate), 2026/27
 
-- Role: Seminar Tutor (Associate Tutor)
+- Role: Seminar Tutor (Associate Teaching)
 - Module convenor: [Paul Clist](https://paulclist.github.io/)
 - Lecture team: [Paul Clist](https://paulclist.github.io/) and [Peter Emmrich](https://jic.ac.uk/people/peter-emmrich/)
 
@@ -17,7 +17,7 @@ I lead the seminars in each of the module's three blocks: why global living stan
 
 **DEV-7106A Quantitative Methods and Analysis for Global Development** (postgraduate), 2026/27
 
-- Role: Associate Tutor
+- Role: Associate Teaching
 - Module convenor: [Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile)
 - Lecture team: [Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me)
 
