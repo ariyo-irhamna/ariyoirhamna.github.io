@@ -17,11 +17,11 @@ I lead the seminars in each of the module's three blocks: why global living stan
 
 **DEV-7106A Quantitative Methods and Analysis for Global Development** (postgraduate), 2026/27
 
-- Role: Associate Tutor, computer workshops
+- Role: Associate Tutor
 - Module convenor: [Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile)
 - Lecture team: [Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me)
 
-I teach the Stata computer workshops that accompany the lectures.
+I teach students, step by step, a range of quantitative methods for estimating correlations and causal effects in development research.
 
 ## Universitas Paramadina, Faculty of Economics and Business
 
