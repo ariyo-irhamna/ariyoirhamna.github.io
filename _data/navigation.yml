@@ -12,3 +12,6 @@ main:
 
   - title: "In the Media"
     url: /media/
+
+  - title: "Data"
+    url: /data/

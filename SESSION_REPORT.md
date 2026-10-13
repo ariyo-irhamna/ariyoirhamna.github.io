@@ -130,3 +130,10 @@
 **Status:**
 - Done: three entries current as of 9 Sep 2026.
 - Pending: the Land as Climate Adaptation abstract still shows the pre-August headline; check against the 30 Aug artefact finding before the next update.
+
+## 2026-10-13 — Data tab for the electricity facility data template
+
+**Operations:**
+- Added `_pages/data.md` (permalink `/data/`) with download link, filling instructions, sheet overview, and key notes (Bahasa Indonesia, English subtitle).
+- Added `files/Templat-Data-Ketenagalistrikan-2015-2025.xlsx`.
+- Modified `_data/navigation.yml` — added "Data" tab after "In the Media".
