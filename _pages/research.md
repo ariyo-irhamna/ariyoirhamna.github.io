@@ -38,11 +38,27 @@ author_profile: true
 
 ## Work in Progress
 
-- Testing Growing-Window Exogeneity in Weather-Shock Designs: Heat, Rice Yields and Crop Income in Thailand and Vietnam
+- Testing Growing-Window Exogeneity in Weather-Exposure Designs: Heat, Rice Yields and Crop Income
   <details style="margin-left: 1.5em;">
     <summary class="expand-abstract">Abstract (click to expand)</summary>
     <p>
-    Farmers choose when their growing season begins, so heat measured over the season a household reports is partly chosen. Existing work either imposes a common calendar window or controls for planting date within the reported one. Neither tests the reported window itself. This paper splits that heat into the part a calendar-fixed window would deliver and the part the household's timing adds. Exogeneity implies equal coefficients, a Durbin–Wu–Hausman test with the calendar-fixed window as instrument. On eight waves of Thai and Vietnamese rice households (2007–2024), at an agronomic 33°C threshold, the outcomes differ. Thailand fails, so these data cannot say whether heat damages rice there. Vietnam passes. Both yield estimates are imprecise, and the Vietnamese confidence interval ends at zero, so neither is reported as a headline result. The contribution is the test. It costs one auxiliary regression and needs only a panel recording planting and harvest months.
+    Farmers choose when their season starts, so the heat over a household's reported season is partly its choice. Existing studies impose a calendar-fixed window or control for planting date inside the reported one. Neither tests the reported window itself. This paper splits that heat into what a calendar-fixed window would deliver and what the household's timing adds. If the window is exogenous, both parts carry the same coefficient. A Durbin–Wu–Hausman test, with the calendar-fixed window as instrument, checks this. The test runs on eight waves of Thai and Vietnamese rice households (2007–2024) at an agronomic 33°C threshold. Thailand fails, so these data cannot say whether heat damages rice there. Vietnam passes, and its estimate is significant at one per cent. But it rests on a weaker instrument and on a non-rejection. Every growing window is dated by the agricultural year the survey covers.
+    </p>
+  </details>
+
+- Adaptation to Heat: Causal Evidence on On-Farm and Off-Farm Responses of Rice Households
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    Rice households can respond to heat on the farm or off it. This chapter asks where adaptation happens, using the Thailand Vietnam Socio Economic Panel, 2007 to 2017. Heat is degree days above 33°C over each household's first-wave growing window. Fixing the window keeps later choices from moving it. Five outcomes share one sample rule and one specification. Vietnamese households respond on the farm: in hotter seasons they spend more on irrigation per hectare of rice. Machinery spending also rises, under most checks. Thai households respond off the farm: more members work outside agriculture and more households hold a wage job. Heat has no detectable effect on leaving rice in either country. A one-margin study would miss the response in one country. The irrigation rise is consistent with spending on existing irrigation, and the Thai wage rise with newly started jobs. Why each response occurs is not established.
+    </p>
+  </details>
+
+- The Causal Effect of Heat on the Land Decisions of Rice Households
+  <details style="margin-left: 1.5em;">
+    <summary class="expand-abstract">Abstract (click to expand)</summary>
+    <p>
+    Rice households can respond to heat by changing the land they farm. Between seasons, renting in or out lets them do so. This chapter assumes households decide before planting, so the pre-planting month carries the last weather they see. It asks whether heat in that month changes land decisions in Thailand and Vietnam. The data are the Thailand Vietnam Socio Economic Panel land module, 2008 to 2017. Heat is degree days above 33°C in the month before each household's first-wave planting month. Household and district-by-year fixed effects absorb fixed and shared conditions. After a hot pre-planting month, Vietnamese households are less likely to rent in. The fall is modest and survives a next-year placebo and the checks I read. It appears in new rentals, paid arrangements and rented rice parcels. Heat has no detectable effect on owned land, nor on Thai households. Why the fall occurs is not established.
     </p>
   </details>
 
@@ -59,22 +75,6 @@ author_profile: true
     <summary class="expand-abstract">Abstract (click to expand)</summary>
     <p>
     Does rainfall cause environmental crime? This paper provides offence-level causal evidence from Indonesia. I assemble 6,923 prosecuted environmental offences with an incident date and location from Indonesian court records (2013–2025) and match each to CHIRPS daily rainfall at the incident location. A time-stratified case-crossover design compares each offence with the same place and calendar date in adjacent years, so the offence fixed effect removes everything that does not vary with the weather. Rain moves environmental crime in both directions. Light and moderate rain suppresses destructive offences such as burning at every horizon: the log-odds of a destructive offence fall by 0.165 per 10 mm of light rain in the preceding three days. Heavy rain stimulates illegal extraction, led by mining, over the following month: the log-odds rise by 0.024 per 10 mm of heavy rain over four weeks. Each group is unresponsive to the other's rain band, logging and fishing show no response, and nine stability and falsification tests pass. To my knowledge these are the first offence-level causal estimates of weather effects on environmental crime.
-    </p>
-  </details>
-
-- Rice Farmer Adaptation to Harmful Heat: Causal Evidence from Tropical Southeast Asia
-  <details style="margin-left: 1.5em;">
-    <summary class="expand-abstract">Abstract (click to expand)</summary>
-    <p>
-    How do rice farmers respond to extreme heat in the short run? Using a panel of 3,228 rice-farming households in Thailand and Vietnam (2007–2017), I exploit within-household temperature variation to identify behavioural responses across six input and land-use margins. I match each adaptation channel to its decision-relevant treatment window, using pre-planting heat for land allocation and growing-season heat for input adjustment, separating anticipatory from reactive responses. One additional harmful degree day before planting increases rice area by 32 per cent. Growing-season heat reduces fertiliser expenditure by 16.5 per cent and increases irrigation expenditure by 26 per cent per harmful degree day. Crop diversification shows no response. Heterogeneity analysis reveals that rice area expansion requires land, not income: only farms with above-median agricultural land expand, while smallholders compensate through irrigation. Input reallocation, not structural crop transformation, is the primary margin of short-run response to heat, and land access determines which households can adjust. Results are robust to calendar-fixed weather windows, district-specific time trends, and Oster bounds.
-    </p>
-  </details>
-
-- Land as Climate Adaptation: Evidence from Rice Farmers in Thailand and Vietnam
-  <details style="margin-left: 1.5em;">
-    <summary class="expand-abstract">Abstract (click to expand)</summary>
-    <p>
-    How do farming households acquire additional land in response to extreme heat? Using a panel of 3,228 rice-farming households in Thailand and Vietnam (2007–2017), I exploit within-household variation in pre-planting harmful heat to estimate the effect of temperature on land acquisition across four channels: inherited, purchased, government-allocated, and other. Household, village, and agroecological zone fixed effects and province-specific linear year trends isolate the identifying variation to within-household temperature shocks. One additional harmful degree day before planting increases total landholding by 0.60 hectares in the pooled sample (p < 0.01). The dominant channel is inherited land (+0.27 ha), followed by purchased land (+0.06 ha). Country-specific results reveal distinct institutional pathways: Thailand drives the pooled result through inherited (+0.41 ha) and purchased (+0.09 ha) land, whereas in Vietnam, government-allocated land is the only significant channel (+0.29 ha). Heat increases total area but not the number of plots, indicating expansion through enlargement of existing holdings rather than new parcels. Results hold under inverse hyperbolic sine transformation, calendar-fixed weather windows, and district-specific time trends.
     </p>
   </details>
 

@@ -137,3 +137,20 @@
 - Added `_pages/data.md` (permalink `/data/`) with download link, filling instructions, sheet overview, and key notes (Bahasa Indonesia, English subtitle).
 - Added `files/Templat-Data-Ketenagalistrikan-2015-2025.xlsx`.
 - Modified `_data/navigation.yml` — added "Data" tab after "In the Media".
+
+## 2026-11-07 — Work in Progress refreshed to the November thesis chapters
+
+**Operations:**
+- Modified `_pages/about.md` and `_pages/research.md` (identical Work in Progress lists). Chapter 1 retitled "Testing Growing-Window Exogeneity in Weather-Exposure Designs: Heat, Rice Yields and Crop Income" with the abstract of the 3 Nov 2026 chapter PDF. The old "Rice Farmer Adaptation to Harmful Heat" entry replaced by Chapter 2, "Adaptation to Heat: Causal Evidence on On-Farm and Off-Farm Responses of Rice Households" (abstract of the 2 Nov 2026 chapter PDF). The old "Land as Climate Adaptation" entry replaced by Chapter 3, "The Causal Effect of Heat on the Land Decisions of Rice Households" (abstract of the 2 Nov 2026 chapter PDF). Floods-and-health, environmental-crime and FDI entries unchanged.
+
+**Decisions:**
+- Order now follows the thesis: Chapter 1 yields, Chapter 2 adaptation, Chapter 3 land, Chapter 4 floods and health, then the environmental-crime paper (shelved until after the PhD on supervisors' advice, 15 Oct 2026, but still a working paper), then the FDI preprint.
+- Abstracts copied verbatim from the chapter title pages (typography only: 33°C, en dashes), so "This chapter" is kept where the source says it.
+- Floods-and-health abstract kept: its figures (respiratory +2 to +3.5 per cent in months 1 to 3, any visit +0.6 per cent, referral cost +1.5 per cent, cancer placebo null, ages 5 to 17 and formal workers) match the 19 Oct 2026 deck.
+
+**Results:**
+- Both pages carry identical Work in Progress lists (diff); details/p tags balanced.
+
+**Status:**
+- Done: six entries current as of 7 Nov 2026.
+- Pending: push with GitHub Desktop (no CLI credential); check the live build afterwards.
