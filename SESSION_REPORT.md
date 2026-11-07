@@ -154,3 +154,14 @@
 **Status:**
 - Done: six entries current as of 7 Nov 2026.
 - Pending: push with GitHub Desktop (no CLI credential); check the live build afterwards.
+
+## 2026-11-07 — Abstracts removed from the floods-and-health and environmental-crime entries
+
+**Operations:**
+- Modified `_pages/about.md` and `_pages/research.md`: the expandable abstract blocks under "Floods, Rainfall and Health in Indonesia" and "Does Rain Cause Environmental Crime?" removed (user request, 7 Nov 2026). Titles stay as plain entries; the three thesis-chapter abstracts and the FDI line unchanged.
+
+**Results:**
+- Work in Progress lists identical on both pages (diff); details/p tags balanced (research 6/6, about 3/3).
+
+**Status:**
+- Pending: push with GitHub Desktop.
