@@ -19,6 +19,14 @@ redirect_from:
 
 
 
+## Affiliations
+---
+* PhD affiliation &#124; **[Norwich Institute for Sustainable Development (NISD)](https://nisd.ac.uk/), University of East Anglia**
+* PhD affiliation &#124; **[Tyndall Centre for Climate Change Research](https://tyndall.ac.uk/)**, theme [Catalysing adaptation and resilience](https://tyndall.ac.uk/research/catalysing-adaptation-and-resilience/)
+* Open to collaboration on climate adaptation and resilience in Southeast Asia: [a.irhamna@uea.ac.uk](mailto:a.irhamna@uea.ac.uk)
+
+
+
 ## Previous Positions
 ---
 * Economics Researcher &#124; **INDEF (Institute for Development of Economics and Finance), Jakarta, Indonesia** (2014-2023)

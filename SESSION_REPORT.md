@@ -165,3 +165,24 @@
 
 **Status:**
 - Pending: push with GitHub Desktop.
+
+## 2026-11-16 — Affiliations, collaboration invitation, password-locked PLN Data page
+
+**Operations:**
+- `_pages/about.md`: new paragraph on PhD affiliations with NISD (nisd.ac.uk) and the Tyndall Centre theme "Catalysing adaptation and resilience"; Contact section rewritten as a collaboration invitation.
+- `_pages/cv.md`: new Affiliations section after Education (same two affiliations, collaboration line).
+- `_data/navigation.yml`: Data tab removed from the menu. The page stays at `/data/` because the PLN request letter links to it.
+- `_pages/data.md`: rewritten as a password-locked page for the four PLN templates (Rumah Tangga, Bisnis, Industri, Desa dan Jaringan, Jan 2010 to Sep 2026); `sitemap: false`.
+- `files/pln/*.bin`: page content and four templates encrypted with AES-256-GCM, key from PBKDF2-SHA256 (600,000 iterations); decrypted in the browser with Web Crypto. No plaintext template or password in the repo.
+- `files/Templat-Data-Ketenagalistrikan-2015-2025.xlsx` removed (superseded; still in git history).
+
+**Decisions:**
+- "Catalysing adaptation and resilience" is a Tyndall Centre theme (tyndall.ac.uk), not an NISD theme (NISD's six themes are agri-food), so the theme is attached to Tyndall only.
+- No start year given for the affiliations (not supplied).
+- Encryption rather than a plain password box: GitHub Pages and the repo are public, so unencrypted files would be readable at their URL.
+
+**Results:**
+- Node Web Crypto test: right password decrypts all five blobs and the templates match the source md5s; wrong password fails. Page JS passes `node --check`. Not yet tested in a browser on the live site (Jekyll not installed locally).
+
+**Status:**
+- Pending: push with GitHub Desktop; open /data/ on the live site and test unlock and the four downloads; add the password to the PLN letter.

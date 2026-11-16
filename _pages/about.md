@@ -9,6 +9,8 @@ redirect_from:
 
 Welcome! I am a Postgraduate Researcher at the [School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development), working under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0). I hold Associate Fellowship with the Higher Education Academy (AFHEA) since 2024.
 
+During my PhD, I am affiliated with the [Norwich Institute for Sustainable Development (NISD)](https://nisd.ac.uk/). I am also affiliated with the [Tyndall Centre for Climate Change Research](https://tyndall.ac.uk/) in its theme [Catalysing adaptation and resilience](https://tyndall.ac.uk/research/catalysing-adaptation-and-resilience/).
+
 I am a development economist specialising in environmental and climate economics. My research examines how climate shocks affect economic outcomes across developing countries, with a focus on Southeast Asia and Indonesia. I integrate high-resolution weather and climate data with household panel surveys, administrative health records, court records, and plant-level industrial data to estimate causal effects of temperature and extreme weather on agriculture, health, and welfare.
 
 Prior to my PhD, I spent more than a decade conducting policy research and advocacy across a wide range of economics topics with senior government officials in Indonesia, based at the [Institute for Development of Economics and Finance (INDEF)](https://indef.or.id/). I regularly provide economic commentary to Indonesian media on current policy issues such as poverty, trade, fiscal policy, and industrial policy. For recent commentary, please visit [In the Media](/media/).
@@ -65,4 +67,4 @@ Prior to my PhD, I spent more than a decade conducting policy research and advoc
 
 ## Contact
 
-I welcome opportunities for collaboration and discussion. Please reach out at [a.irhamna@uea.ac.uk](mailto:a.irhamna@uea.ac.uk) or [ariyo.irhamna@indef.or.id](mailto:ariyo.irhamna@indef.or.id).
+I am keen to collaborate on climate adaptation and resilience in Southeast Asia. My work asks how rice households respond to heat, on the farm and off it. It also asks how floods and rainfall affect health in Indonesia. I bring long household panels from Thailand and Vietnam, administrative health-insurance claims and high-resolution weather data. I also bring years of policy research with senior Indonesian government officials. If you work on adaptation, resilience, or climate and development data in the region, I would be glad to hear from you. Please reach out at [a.irhamna@uea.ac.uk](mailto:a.irhamna@uea.ac.uk) or [ariyo.irhamna@indef.or.id](mailto:ariyo.irhamna@indef.or.id).
