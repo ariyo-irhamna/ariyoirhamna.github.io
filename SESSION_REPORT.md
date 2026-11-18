@@ -186,3 +186,33 @@
 
 **Status:**
 - Pending: push with GitHub Desktop; open /data/ on the live site and test unlock and the four downloads; add the password to the PLN letter.
+
+## 2026-11-16 — Push verified live; password line added to the PLN letter
+
+**Operations:**
+- PLN letter (outside the repo, `Documents Local/Data/PLN/Request Data PLN/`): paragraph 16 gains "Halaman tersebut dilindungi kata sandi: ..." after the link sentence; installed with install_versioned.py, old draft in `_archive/_replaced_2026-11-16_1618/` (md5 2bdf7080 kept, new md5 0fbe1f18). Only word/document.xml changed.
+- Ariyo pushed 4363924 with GitHub Desktop.
+
+**Results:**
+- Pages build for 4363924 succeeded (15:42 UTC). Live: menu without Data; affiliations on home and CV; /data/ shows the password form, holds no password or old link, absent from sitemap; old 2015-2025 template returns 404; the five live .bin files decrypt with the right password to the source md5s and fail with a wrong one.
+
+**Commits:**
+- `4363924` Add NISD and Tyndall affiliations, collaboration invitation, password-locked PLN Data page
+
+**Status:**
+- Done: site changes live and checked.
+- Pending: real-browser click test of /data/ unlock and downloads; check the letter's page layout in Word; homepage "In the Media" link `/media/` returns 404 (pre-existing, not fixed).
+
+## 2026-11-18 — Chapter 2 title and the three chapter abstracts updated
+
+**Operations:**
+- `_pages/about.md` and `_pages/research.md` (Work in Progress, identical lists): Chapter 2 title changed to "On-Farm and Off-Farm Responses to Heat: Causal Evidence from Rice Households" (author's new title, 18 Nov).
+- Chapter 1, 2 and 3 abstracts replaced, word for word, with the current chapter abstracts (author's choice): `ch1_chapter.tex` (md5 fd4fc96e94f1), `ch2_chapter_18112026.tex` (058665f5ad3d), `ch3_chapter_17112026.tex` (9ea1eee2dfc5). LaTeX marks written as plain characters: "--" as "–", "33°C" for the degree sign.
+- Chapter 1 and 3 titles already matched the chapter files; not changed. Chapter 4 and the crime paper stay titles only.
+
+**Results:**
+- Perl check: each site abstract equals its chapter abstract on both pages; no LaTeX characters left; the two Work in Progress lists are identical. No copy of the old Chapter 2 title remains in the repo.
+
+**Status:**
+- Done: committed locally.
+- Pending: push with GitHub Desktop; check the live pages after the Pages build.
