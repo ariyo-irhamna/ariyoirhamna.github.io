@@ -216,3 +216,16 @@
 **Status:**
 - Done: committed locally.
 - Pending: push with GitHub Desktop; check the live pages after the Pages build.
+
+## 2026-11-18 — Chapter 4 title updated
+
+**Operations:**
+- `_pages/about.md` and `_pages/research.md` (Work in Progress, identical lists): the floods-and-health entry now reads "Floods and Diagnosed Illness under Universal Health Coverage: Causal Evidence from Indonesia", the title of `ch4_chapter_18112026.tex` (author's choice, 18 Nov). It replaces the September working title "Floods, Rainfall and Health in Indonesia: Causal Evidence from National Health Insurance Claims".
+- The entry stays a title only, without an abstract (author's decision of 7 Nov).
+
+**Results:**
+- No copy of the old Chapter 4 title remains in the pages; the two Work in Progress lists are identical.
+
+**Status:**
+- Done: committed locally.
+- Pending: push with GitHub Desktop (together with `ebd9eb9`); check the live pages after the Pages build.

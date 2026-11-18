@@ -56,7 +56,7 @@ Prior to my PhD, I spent more than a decade conducting policy research and advoc
     </p>
   </details>
 
-- Floods, Rainfall and Health in Indonesia: Causal Evidence from National Health Insurance Claims
+- Floods and Diagnosed Illness under Universal Health Coverage: Causal Evidence from Indonesia
 
 - Does Rain Cause Environmental Crime? Causal Evidence from Indonesia
 
